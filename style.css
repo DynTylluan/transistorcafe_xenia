@@ -1,0 +1,27 @@
+body {
+	max-width: 800px ;
+	margin: auto ;
+	color:#fff;
+	background-color: #000;
+//  background-image: url("bg2.png");
+}
+
+/* unvisited link */
+a:link {
+    color: #FF0000;
+}
+
+/* visited link */
+a:visited {
+    color: #00FFFF;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF8000 ;
+}
+
+/* selected link */
+a:active {
+    color: #FF0080;
+}
