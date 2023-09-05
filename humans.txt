@@ -1,0 +1,15 @@
+/* TEAM */
+    Owner: Xenia
+    Website: http://transistorcafe.net/~xenia
+    Contact: xenia@transistorcafe.net
+    From: Cymru, DU
+
+/* THANKS */
+    Name: Kitty
+    Website: http://transistorcafe.net/~digikitty_x86
+    Masto: @digikitty_x86@blahaj.zone
+
+    Name: Cass "Owly" Python
+    Website: https://owly.fans
+    Masto: @Owly@digipres.club
+    From: England-Cymru, UK

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TITLE</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body>
+    <p></p>
+    <center>
+		<h2><em>The Website of <a href="/~xenia">Xenia</a>:</em> TITLE</h2>
+        <table width="650">
+            <tr>
+                <td valign="top">
+<p>TEXT</p>
+<hr>
+
+					<p>Copyright © Xenia  <script type="text/javascript">
+var today = new Date()
+var year = today.getFullYear()
+document.write(year)
+						</script>. <a href="license.html">Some rights reserved</a>.</p>
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
