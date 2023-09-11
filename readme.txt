@@ -1,3 +1,4 @@
+===============================================================================
                       ~=| README FOR XENIA'S WEBSITE |=~
                        http://transistorcafe.net/~xenia
 ===============================================================================
@@ -39,3 +40,11 @@ The URL for this git:
 https://github.com/DynTylluan/transistorcafe_xenia (main)
 https://notabug.org/DynTylluan/transistorcafe_xenia (mirror)
 https://tildegit.org/cass/transistorcafetransistorcafe_xenia (mirror)
+
+===============================================================================
+                                 ~=| TO DO |=~
+===============================================================================
+
+TO DO:
+- Add alt text
+- Add Windows hate page (M$ Sucks!)

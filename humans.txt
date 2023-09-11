@@ -12,4 +12,9 @@
     Name: Cass "Owly" Python
     Website: https://owly.fans
     Masto: @Owly@digipres.club
+    Masto: @CassTheOwl
     From: England-Cymru, UK
+
+    Name: nickisdoge
+    Masto: @nickisdoge@meow.social 
+    Twitter: @nickisdoge
