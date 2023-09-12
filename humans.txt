@@ -10,10 +10,10 @@
     Masto: @digikitty_x86@blahaj.zone
 
     Name: Cass "Owly" Python
+    From: England-Cymru, UK
     Website: https://owly.fans
     Masto: @Owly@digipres.club
-    Masto: @CassTheOwl
-    From: England-Cymru, UK
+    Twitter: @CassTheOwl
 
     Name: nickisdoge
     Masto: @nickisdoge@meow.social 

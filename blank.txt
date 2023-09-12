@@ -10,7 +10,7 @@
     <p></p>
     <center>
         <table width="650">
-			<p><a href="/~xenia"><center><img src="pagename.png" width="750" height="200"></center></a></p>
+			<p><center><a href="/~xenia"><img src="blank.png" width="750" height="200" alt="Banner that says 'XXX' on." title="Banner that says 'XXX' on."></a></center></p>
 			<hr>
             <tr>
                 <td valign="top">
