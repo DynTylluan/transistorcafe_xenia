@@ -46,5 +46,8 @@ https://tildegit.org/cass/transistorcafetransistorcafe_xenia (mirror)
 ===============================================================================
 
 TO DO:
+- Nothing ATM
+
+DONE:
 - Add alt text
 - Add Windows hate page (M$ Sucks!)
