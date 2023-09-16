@@ -24,3 +24,8 @@ a:hover {
 a:active {
     color: #FF0080;
 }
+
+/* The following was written by yourdevilfriends.art - thank you */
+uppercase,yell {
+	text-transform: uppercase;
+}
