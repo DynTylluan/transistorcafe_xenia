@@ -46,7 +46,8 @@ https://tildegit.org/cass/transistorcafetransistorcafe_xenia (mirror)
 ===============================================================================
 
 TO DO:
-- Nothing ATM
+- Work on an RSS feed
+- Outside links page
 
 DONE:
 - Add alt text
