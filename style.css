@@ -1,28 +1,29 @@
 body {
 	max-width: 800px ;
 	margin: auto ;
-	color:#fff;
-	background-color: #000;
+	color:#002626;
+	background: url(mural1.png);
+	background-color:hsl(204, 44%, 65%);
 }
 
 /* unvisited link */
 a:link {
-    color: #FF0000;
+    color: #4A234A;
 }
 
 /* visited link */
 a:visited {
-    color: #00FFFF;
+    color: #213F21;
 }
 
 /* mouse over link */
 a:hover {
-    color: #FF8000 ;
+    color: #213F88;
 }
 
 /* selected link */
 a:active {
-    color: #FF0080;
+    color: #5D2E87;
 }
 
 /* The following was written by yourdevilfriends.art - thank you */

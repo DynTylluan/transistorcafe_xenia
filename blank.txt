@@ -21,7 +21,7 @@
 var today = new Date()
 var year = today.getFullYear()
 document.write(year)
-						</script>. <a href="license.html">Some rights reserved</a>.</p>
+						</script>. <a href="license.html">Some rights reserved</a>. Please see <a href="humans.txt">humans.txt</a> for full credits!</p><p>Made for Onfim.</p></p>
                 </td>
             </tr>
         </table>

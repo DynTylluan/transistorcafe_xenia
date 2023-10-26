@@ -1,5 +1,6 @@
 ===============================================================================
                       ~=| README FOR XENIA'S WEBSITE |=~
+                     http://thedigitallancabin.net/~xenia
                        http://transistorcafe.net/~xenia
 ===============================================================================
 
@@ -46,9 +47,9 @@ https://tildegit.org/cass/transistorcafetransistorcafe_xenia (mirror)
 ===============================================================================
 
 TO DO:
-- Work on an RSS feed
 - Outside links page
 
 DONE:
 - Add alt text
 - Add Windows hate page (M$ Sucks!)
+- Work on an RSS feed
