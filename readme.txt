@@ -1,7 +1,6 @@
 ===============================================================================
                       ~=| README FOR XENIA'S WEBSITE |=~
-                     http://thedigitallancabin.net/~xenia
-                       http://transistorcafe.net/~xenia
+                  http://dorms.thedigitallancabin.net/~xenia
 ===============================================================================
 
 Hello there, welcome to the README for my website! My name is Xenia and I
