@@ -19,22 +19,25 @@ content/changes will also be under the same license!
 
 - Xenia
 
-                                  a8888b.
-                                 d888888b.
-                                 8P"YP"Y88
-                                 8|o||o|88
-                                 8'    .88
-                                 8`._.' Y8.
-                                d/      `8b.
-                               dP   .    Y8b.
-                              d8:'  "  `::88b
-                             d8"         'Y88b
-                            :8P    '      :888
-                             8a.   :     _a88P
-                           ._/"Yaa_:   .| 88P|
-                      jgs  \    YP"    `| 8P  `.
-                      a:f  /     \.___.d|    .'
-                           `--..__)8888P`._.'
+                                  -`
+                                 .o+`
+                                `ooo/
+                               `+oooo:
+                              `+oooooo:
+                              -+oooooo+:
+                            `/:-:++oooo+:
+                           `/++++/+++++++:
+                          `/++++++++++++++:
+                         `/+++ooooooooooooo/`
+                        ./ooosssso++osssssso+`
+                       .oossssso-````/ossssss+`
+                      -osssssso.      :ssssssso.
+                     :osssssss/        osssso+++.
+                    /ossssssss/        +ssssooo/-
+                  `/ossssso+/:-        -:/+osssso+-
+                 `+sso+:-`                 `.-/+oso:
+                `++:.                           `-/+/
+                .`                                 `
 
 The URL for this git:
 https://github.com/DynTylluan/transistorcafe_xenia (main)
